@@ -5,7 +5,6 @@
 - Average HTTP response time: 290.95 ms
 - p(95): 375 ms
 - Average iteration duration: 1.33 seconds
-- Failed requests: 0%
 
 **Explanation:**
 
